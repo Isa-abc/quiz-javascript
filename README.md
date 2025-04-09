@@ -1,6 +1,6 @@
 # Questionário JavaScript
 
-A Pen created on CodePen.
+Realizado para a prática de utilização de arrays, condicionais e booleano no JavaScript.
 
-Original URL: [https://codepen.io/Isa-abc/pen/KwKYKmj](https://codepen.io/Isa-abc/pen/KwKYKmj).
+Projeto feito no CodePen, durante a Imersão Dev da Alura: [https://codepen.io/Isa-abc/pen/KwKYKmj](https://codepen.io/Isa-abc/pen/KwKYKmj).
 
